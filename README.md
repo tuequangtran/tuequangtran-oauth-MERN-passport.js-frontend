@@ -5,5 +5,3 @@ Demo full-stack website for handling OAuth user logins using MongoDB, Express, R
 View the live site here: https://oauth-mern-passportjs-frontend.netlify.app
 
 View the backend code repo here: https://github.com/tuequangtran/oauth-MERN-passport.js-backend-
-
-
